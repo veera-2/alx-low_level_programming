@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - this discribes the main function of the code
- * return:0 (success)
+ * return: always 0 (success)
  */
 int main(void)
 {

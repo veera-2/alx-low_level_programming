@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - this discribes the main function of the code
+ * main - Entry point
  * return: always 0 (success)
  */
 int main(void)
